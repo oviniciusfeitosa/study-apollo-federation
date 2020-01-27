@@ -11,3 +11,4 @@ Study case of Apollo Federation implementing microservices
 
 - [Apollo RabbitMQ](https://github.com/DotAmzi/apollo-rabbitmq)
 - [Kafka Microservices](https://github.com/DotAmzi/kafka-node-microservice)
+- [Gitmoji](https://gitmoji.carloscuesta.me)
